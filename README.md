@@ -1,7 +1,6 @@
 # MassTrackDownloader
 
 ## Description
----
 This project is a tool meant to automatically download many random tracks from [TMX](https://tmnf.exchange). This tool only works for TMNF (Trackmania Nations Forever) at the moment. The tool can be used for many things including:
 
 - playing user created maps without wifi
@@ -9,7 +8,6 @@ This project is a tool meant to automatically download many random tracks from [
 - Discovering many new trackmania maps
 
 ## Installation
----
 <br>
 
 ```
