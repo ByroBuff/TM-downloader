@@ -16,6 +16,7 @@ git clone https://github.com/wholeheartedness/TM-downloader.git
 cd TM-downloader
 
 python -m pip install -r requirements.txt
+(Or run packageInstaller.bat)
 
 python trackDownloader.py
 ```
