@@ -24,6 +24,10 @@ python trackDownloader.py
 
 Upon Start of the program, you will be prompted to enter the directory you want to send the tracks to. Be aware that the tracks are not directly entered into that directory but added into a subfolder called ```tracks``` this is for ease of use because the links to the [TMX](https://tmnf.exchange) page is also stored in a subfolder called ```links```. This is to increase efficiency when browsing. You will also be prompted with the amount of tracks you want to download.
 
+### Parameters
+
+Parameters are modifiers that can be added to the random track search to narrow your search. Some examples of paramters could be the author or the upload date of a track. A full documentation of the parameters can be found at https://sites.google.com/view/trackrandom created by myself for the purposes of this project.
+
 ## Important ⚠
 
 #### Tracks With the character ```?``` cannot be downloaded by this program
