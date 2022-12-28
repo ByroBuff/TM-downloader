@@ -16,10 +16,15 @@ git clone https://github.com/wholeheartedness/TM-downloader.git
 cd TM-downloader
 
 python -m pip install -r requirements.txt
-(Or run packageInstaller.bat)
 
 python trackDownloader.py
 ```
+
+### Alternate method for noobs
+1. Download [This](https://github.com/wholeheartedness/TM-downloader/archive/refs/heads/main.zip)
+2. Extract zip file
+3. Run `packageInstaller.bat`
+4. When ready to find tracks run `trackDownloader.py`
 
 ## Usage
 
