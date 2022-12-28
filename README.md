@@ -22,6 +22,7 @@ python trackDownloader.py
 
 ## Usage
 
+### General
 Upon Start of the program, you will be prompted to enter the directory you want to send the tracks to. Be aware that the tracks are not directly entered into that directory but added into a subfolder called ```tracks``` this is for ease of use because the links to the [TMX](https://tmnf.exchange) page is also stored in a subfolder called ```links```. This is to increase efficiency when browsing. You will also be prompted with the amount of tracks you want to download.
 
 ### Parameters
