@@ -26,9 +26,13 @@ while not os.path.exists(directory):
     if directory == "":
         directory = "tracks"
 
+while True:
+    try:
+        count = int(input("   How Many tracks: "))
+        break
+    except ValueError:
+        continue
 
-
-count = int(input("   How Many tracks: "))
 print(" ")
 
 i = 0
