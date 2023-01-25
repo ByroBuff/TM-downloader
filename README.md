@@ -11,7 +11,7 @@ This project is a tool for windows meant to automatically download many random t
 <br>
 
 ```
-git clone https://github.com/wholeheartedness/TM-downloader.git
+git clone https://github.com/ByroBuff/TM-downloader.git
 
 cd TM-downloader
 
